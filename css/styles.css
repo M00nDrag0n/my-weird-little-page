@@ -1,0 +1,85 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  color: white;
+  background: black;
+}
+
+#Sugar {
+
+}
+
+#SUGAR img {
+  position: relative;
+  left: 250px;
+  length: 400px;
+  width: 350px;
+}
+
+#places {
+
+}
+
+#shinies {
+
+}
+ #shinies img {
+   position: relative;
+   left: 250px;
+   length: 400px;
+   width: 350px;
+
+ }
+
+#plants {
+
+}
+#plants img {
+  position: relative;
+  left: 250px;
+  length: 400px;
+  width: 350px;
+
+}
+
+#Colors {
+
+}
+
+#Colors img {
+  position: relative;
+  left: 250px;
+  length: 400px;
+  width: 350px;
+
+}
+
+#conclusion {
+  font-size: 36px;
+  position: absolute;
+  left: 350px;
+}
+
+#blue-dragon {
+
+}
+
+#blue-dragon img {
+  position: absolute;
+  left: 350px;
+  top: 12200px;
+  length: 400px;
+  width: 350px;
+  z-index: 1;
+}
+
+#waterfall {
+
+}
+
+#waterfall img {
+  position: absolute;
+  top: 12000px;
+  length: 70%;
+  width: 70%;
+}
