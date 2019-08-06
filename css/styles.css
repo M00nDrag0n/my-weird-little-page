@@ -67,7 +67,7 @@ body {
 #blue-dragon img {
   position: absolute;
   left: 350px;
-  top: 12200px;
+  top: 12600px;
   length: 400px;
   width: 350px;
   z-index: 1;
@@ -79,7 +79,7 @@ body {
 
 #waterfall img {
   position: absolute;
-  top: 12000px;
+  top: 12400px;
   length: 70%;
   width: 70%;
 }
