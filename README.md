@@ -1,6 +1,6 @@
 # _My Weird Little Page_
 
-#### _Literally just a page, 6/6/19_
+#### _Literally just a webpage, 6/6/19_
 
 #### By _**Anise Lester**_
 
@@ -10,9 +10,9 @@ _This is an overly complicated project that was meant to be simple._
 
 ## Setup/Installation Requirements
 
-* _Use Github to clone this repository_
+* _Use Github to clone this repository, or use this link [ https://m00ndrag0n.github.io/my-weird-little-page/ ] to access the global version._
 * _Open the repository in your browser_
-* _read my crap_
+* _read my content_
 * _be amazed at my CSS_
 * _go find something else to do_
 
